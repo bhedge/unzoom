@@ -1,10 +1,14 @@
 {
   "name": "unzoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A way to uninstall the zoom zero day on a mac",
   "main": "index.js",
+  "bin": {
+    "unzoom": "./bin/index.js"
+  },
   "private": false,
   "scripts": {
+    "unzoom": "./bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
