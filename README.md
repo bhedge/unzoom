@@ -1,10 +1,11 @@
 # Unzoom
 
-A simple spike package to remove the Zoom server from your mac
-The goal is to provide a simple way to run this uninstall via npx
+A simple spike package to remove the Zoom server from your mac. The goal is to provide a simple way to run this uninstall via npx
 
-With [npm](https://npmjs.org/) installed, run
+With [npm](https://npmjs.org/) installed, run:
+```
     $ npx unzoom
+```
 
 This is just a terrible wrapper for these basic bash commands:
 
