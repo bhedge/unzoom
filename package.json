@@ -1,10 +1,15 @@
 {
   "name": "unzoom",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A way to uninstall the zoom zero day on a mac",
   "main": "index.js",
   "bin": {
     "unzoom": "./bin/index.js"
+  },
+  "homepage": "https://github.com/bhedge/unzoom#readme",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bhedge/unzoom.git"
   },
   "private": false,
   "scripts": {
