@@ -1,0 +1,20 @@
+{
+  "name": "unzoom",
+  "version": "1.0.0",
+  "description": "A way to uninstall the zoom zero day on a mac",
+  "main": "index.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zoom",
+    "boom",
+    "unzoom",
+    "ininstall",
+    "zero",
+    "day"
+  ],
+  "author": "brandon.hedge@gmail.com",
+  "license": "MIT"
+}
